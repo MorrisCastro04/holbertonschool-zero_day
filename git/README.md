@@ -4,7 +4,7 @@
 
 # Git Commands
 
-This project to learn how git works, also explore some commands and get familiar with them.
+This project is to learn how git works, also explore some commands and get familiar with them.
 
 October 02, 2023 - October 08, 2023
 
